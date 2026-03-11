@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
+My name is Corbin Hines, and I am a data professional and aspiring data analyst. I have nearly a decade of experience in the loaning industry. The purpose of this github of mine is to showcase data projects of mine, big and small, and potentially collaborate with other data professionals who enjoy data as much as me!
+## Proficient Tools 
 
-<!--
-**CC-Hines/CC-Hines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **Excel**
+  
+  **MYSQL**
 
-Here are some ideas to get you started:
+  **Tableau**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning
+
+**Python**
+
+**Power BI**
+
